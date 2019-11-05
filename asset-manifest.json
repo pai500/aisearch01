@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aisearch/static/css/main.b100e6da.chunk.css",
+    "main.js": "/aisearch/static/js/main.9fc94ee2.chunk.js",
+    "main.js.map": "/aisearch/static/js/main.9fc94ee2.chunk.js.map",
+    "runtime-main.js": "/aisearch/static/js/runtime-main.1850fda4.js",
+    "runtime-main.js.map": "/aisearch/static/js/runtime-main.1850fda4.js.map",
+    "static/js/2.2b1620b6.chunk.js": "/aisearch/static/js/2.2b1620b6.chunk.js",
+    "static/js/2.2b1620b6.chunk.js.map": "/aisearch/static/js/2.2b1620b6.chunk.js.map",
+    "index.html": "/aisearch/index.html",
+    "precache-manifest.60668b9926791300d9f729fd6e92f3d5.js": "/aisearch/precache-manifest.60668b9926791300d9f729fd6e92f3d5.js",
+    "service-worker.js": "/aisearch/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/aisearch/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/aisearch/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1850fda4.js",
+    "static/js/2.2b1620b6.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.9fc94ee2.chunk.js"
+  ]
+}
